@@ -1,4 +1,7 @@
-server/config/dev.js
-node_modules
-
+/.git
 client/node_modules
+.dockerignore
+server/config/dev.js
+.env
+Dockerfile
+fly.toml
